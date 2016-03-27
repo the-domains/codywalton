@@ -1,0 +1,28 @@
+name: codywalton
+favicon: null
+layout_spectrum: 0.9951651422306895
+typography_spectrum: 0.041701520793139935
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8906199878547341
+  lightness: 0.7050950455013663
+  saturation: 0.07872583041898906
+  rhythmicContrast: 0.5172612194437534
+purpose: []
