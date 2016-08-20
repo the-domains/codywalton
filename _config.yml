@@ -1,20 +1,4 @@
-name: codywalton
-favicon: null
-layout_spectrum: 0.9951651422306895
 typography_spectrum: 0.041701520793139935
-title: Cody Walton
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -26,4 +10,21 @@ color:
   lightness: 0.7050950455013663
   saturation: 0.07872583041898906
   rhythmicContrast: 0.5172612194437534
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9951651422306895
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: codywalton
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Cody Walton
+description: Creative Director | User Expereince
 purpose: []
